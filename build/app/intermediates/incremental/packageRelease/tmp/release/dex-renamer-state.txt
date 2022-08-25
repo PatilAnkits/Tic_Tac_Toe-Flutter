@@ -1,0 +1,4 @@
+#Thu Aug 25 16:59:43 IST 2022
+base.0=/home/saver/AndroidStudioProjects/tictactoe/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
